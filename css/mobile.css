@@ -1,0 +1,62 @@
+h1 {
+	font-size: 4em;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1em;
+}
+
+header {
+	padding: 25% 0 0 0;
+}
+
+
+
+/******************************
+NAV
+******************************/
+.dropbtn, .dropdown-content {
+    min-width: 75px;
+}
+
+#buy_ticket{
+	padding: 5px;
+	width: 75px;
+    margin: 15px;
+}
+
+
+/******************************
+CONTENT
+******************************/
+
+
+.details {
+	padding: 10px;
+	width: 90%;
+	font-size: .85em;
+}
+
+#gallery_details {
+	padding: 10px;
+	width: 90%;
+}
+
+#gallery li {
+   width: 45%;
+   margin:2.5%;
+}
+
+#gallery li a p {
+	font-size: .75em;
+}
+
+
+.special {
+	width: 90%;
+	padding:10px;
+}
